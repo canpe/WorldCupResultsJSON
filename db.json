@@ -1,5 +1,5 @@
 {
-    "results1": [
+    "round1": [
         { "Id":1, "ScoreA": 5, "ScoreB": 0 } ,        
         { "Id":2, "ScoreA": 0, "ScoreB": 1 } ,
         { "Id":3, "ScoreA": 0, "ScoreB": 1 } ,
@@ -17,7 +17,7 @@
         { "Id":15, "ScoreA": 1, "ScoreB": 2 } ,
         { "Id":16, "ScoreA": 1, "ScoreB": 2 } 
     ],
-    "results2": [
+    "round2": [
         { "Id":17, "ScoreA": 3, "ScoreB": 1 } ,
         { "Id":18, "ScoreA": 1, "ScoreB": 0 } ,
         { "Id":19, "ScoreA": 1, "ScoreB": 0 } ,
@@ -35,6 +35,6 @@
         { "Id":31, "ScoreA": 2, "ScoreB": 2 } ,
         { "Id":32, "ScoreA": 0, "ScoreB": 3 } 
     ],
-    "results3": [
+    "round3": [
     ]
 }
