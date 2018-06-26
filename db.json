@@ -39,6 +39,10 @@
         { "Id":33, "ScoreA": 3, "ScoreB": 0 } ,
         { "Id":34, "ScoreA": 2, "ScoreB": 1 } ,
         { "Id":35, "ScoreA": 2, "ScoreB": 2 } ,
-        { "Id":36, "ScoreA": 1, "ScoreB": 1 } 
+        { "Id":36, "ScoreA": 1, "ScoreB": 1 } ,
+        { "Id":37, "ScoreA": 0, "ScoreB": 2 } ,
+        { "Id":38, "ScoreA": 0, "ScoreB": 0 } ,
+        { "Id":39, "ScoreA": 1, "ScoreB": 2 } ,
+        { "Id":40, "ScoreA": 1, "ScoreB": 2 } 
     ]
 }
